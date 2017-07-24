@@ -1,0 +1,9 @@
+Scripts for researching financial markets.
+
+Get a quote: `stox quote MSFT` (or other symbols)
+
+Get all market data: `stox market`
+
+API library in ./lib/index.js. CLI wrapper in ./bin/cli.js.
+
+Data provided for free by [IEX](https://iextrading.com/developer/), see [terms](https://iextrading.com/api-exhibit-a/).
